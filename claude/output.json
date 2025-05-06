@@ -1,0 +1,4487 @@
+[
+  {
+    "fecha": "2019-01-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.4
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.49
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.16
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.25
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.37
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.37
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 1.44
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.47
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.15
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.78
+      }
+    ]
+  },
+  {
+    "fecha": "2019-02-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.05
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.08
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.39
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.78
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.12
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.53
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 4.48
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.75
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.57
+      }
+    ]
+  },
+  {
+    "fecha": "2019-03-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.95
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.94
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.67
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.37
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.15
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.13
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.5
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.03
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": -0.03
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.27
+      }
+    ]
+  },
+  {
+    "fecha": "2019-04-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.07
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.81
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.07
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.47
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.31
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.72
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.33
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.09
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.47
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.3
+      }
+    ]
+  },
+  {
+    "fecha": "2019-05-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.65
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.79
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.29
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.43
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.32
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.25
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.01
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.06
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.19
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.12
+      }
+    ]
+  },
+  {
+    "fecha": "2019-06-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.85
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.25
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.09
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.08
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.21
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.29
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.45
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.12
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.53
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.1
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.13
+      }
+    ]
+  },
+  {
+    "fecha": "2019-07-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.66
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": -0.01
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.23
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.17
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.15
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.33
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.51
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": -0.05
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.01
+      }
+    ]
+  },
+  {
+    "fecha": "2019-08-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.13
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": -0.08
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.16
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.1
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.18
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.26
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.32
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.16
+      }
+    ]
+  },
+  {
+    "fecha": "2019-10-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.25
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.29
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.19
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": -0.05
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.34
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.14
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.06
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.47
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.03
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.04
+      }
+    ]
+  },
+  {
+    "fecha": "2019-11-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.47
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.44
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.21
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.1
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.06
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.39
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.32
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.07
+      }
+    ]
+  },
+  {
+    "fecha": "2019-12-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.25
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.54
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.07
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.21
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.09
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.17
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.48
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.96
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 1.41
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.5
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.16
+      }
+    ]
+  },
+  {
+    "fecha": "2020-01-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.76
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.41
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.51
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.59
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.7
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.39
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.49
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.87
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.7
+      }
+    ]
+  },
+  {
+    "fecha": "2020-02-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.93
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.51
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.31
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.47
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.35
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.65
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.1
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.24
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 4.78
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.54
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.37
+      }
+    ]
+  },
+  {
+    "fecha": "2020-03-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 2.21
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.55
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.49
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.07
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.02
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.37
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.03
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.16
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.42
+      }
+    ]
+  },
+  {
+    "fecha": "2020-04-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 2.04
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.12
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.39
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.15
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.07
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.51
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.89
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -2.97
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.03
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.01
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.16
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.22
+      }
+    ]
+  },
+  {
+    "fecha": "2020-05-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.28
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": -0.2
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": -1.69
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.43
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.47
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -3.12
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": -0.03
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": -0.11
+      }
+    ]
+  },
+  {
+    "fecha": "2020-06-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.11
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.21
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -2.06
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": -0.53
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": -0.58
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.33
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.53
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.06
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.16
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": -0.04
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": -0.23
+      }
+    ]
+  },
+  {
+    "fecha": "2020-07-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.8
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.14
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.09
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.16
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.56
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.25
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.22
+      }
+    ]
+  },
+  {
+    "fecha": "2020-08-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.45
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.32
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -1.0
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.07
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": -0.05
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.7
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 3.6
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.17
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -3.48
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.49
+      }
+    ]
+  },
+  {
+    "fecha": "2020-10-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.32
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.12
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.13
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": -0.06
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.07
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.9
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.13
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.06
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -2.48
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": -0.21
+      }
+    ]
+  },
+  {
+    "fecha": "2020-11-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.06
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.16
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -3.71
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": -0.31
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.13
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.03
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.46
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.52
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -1.03
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.16
+      }
+    ]
+  },
+  {
+    "fecha": "2020-12-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.43
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": -0.05
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 2.95
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.52
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.31
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.12
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.12
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.69
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -2.11
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.49
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.07
+      }
+    ]
+  },
+  {
+    "fecha": "2021-01-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.44
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.2
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.41
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.13
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.26
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.26
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.7
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.16
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.82
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.65
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.37
+      }
+    ]
+  },
+  {
+    "fecha": "2021-02-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.31
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 1.82
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.96
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.59
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.62
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.09
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.82
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 3.56
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.69
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.62
+      }
+    ]
+  },
+  {
+    "fecha": "2021-03-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.14
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.69
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.31
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.43
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.85
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.53
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.24
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.4
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.13
+      }
+    ]
+  },
+  {
+    "fecha": "2021-04-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 2.09
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.51
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.37
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.43
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.37
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.42
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -1.13
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.07
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.86
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.37
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.35
+      }
+    ]
+  },
+  {
+    "fecha": "2021-05-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 5.37
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.08
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.24
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.32
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.33
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -3.17
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.06
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.86
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.24
+      }
+    ]
+  },
+  {
+    "fecha": "2021-06-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -1.02
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.24
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.02
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.06
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.35
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.1
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.27
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.68
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.27
+      }
+    ]
+  },
+  {
+    "fecha": "2021-07-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.31
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.11
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.8
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.31
+      }
+    ]
+  },
+  {
+    "fecha": "2021-08-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.08
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.07
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.19
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.25
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.34
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.18
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.19
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.62
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.99
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.29
+      }
+    ]
+  },
+  {
+    "fecha": "2021-10-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.89
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -3.45
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.29
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.29
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.5
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.5
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -6.79
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.21
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -0.07
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.53
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.29
+      }
+    ]
+  },
+  {
+    "fecha": "2021-11-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.45
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.44
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.63
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.29
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.47
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.09
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.5
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.93
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.31
+      }
+    ]
+  },
+  {
+    "fecha": "2021-12-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 2.08
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.78
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.41
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.32
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.03
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.86
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.01
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.65
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -0.15
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.04
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.44
+      }
+    ]
+  },
+  {
+    "fecha": "2022-01-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 3.79
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.72
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 4.03
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 2.93
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.93
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.85
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.13
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.58
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 2.4
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 1.29
+      }
+    ]
+  },
+  {
+    "fecha": "2022-02-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 3.26
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.77
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 1.23
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.71
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 2.6
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.18
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.13
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.83
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 4.48
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 2.22
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 1.26
+      }
+    ]
+  },
+  {
+    "fecha": "2022-03-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 2.84
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.86
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -1.78
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.58
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 1.83
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.97
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.37
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.19
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.01
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.42
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 1.0
+      }
+    ]
+  },
+  {
+    "fecha": "2022-04-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 2.75
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.68
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 2.99
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.82
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 1.49
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.87
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.66
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.13
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 1.18
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.01
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.09
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.96
+      }
+    ]
+  },
+  {
+    "fecha": "2022-05-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.56
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.66
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.55
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.83
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.82
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.61
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.05
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.18
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.88
+      }
+    ]
+  },
+  {
+    "fecha": "2022-06-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.65
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -2.64
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.54
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.96
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.44
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.76
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.24
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.61
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.06
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.61
+      }
+    ]
+  },
+  {
+    "fecha": "2022-07-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.17
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 3.6
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.56
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.75
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.88
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.96
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.09
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.31
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.83
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.53
+      }
+    ]
+  },
+  {
+    "fecha": "2022-08-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.85
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.45
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.76
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 1.33
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.74
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.68
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.08
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.6
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.17
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.45
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 1.54
+      }
+    ]
+  },
+  {
+    "fecha": "2022-10-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.21
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.56
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.4
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.77
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.7
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.09
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.89
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.77
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.9
+      }
+    ]
+  },
+  {
+    "fecha": "2022-11-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.5
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.05
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.32
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.78
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.61
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.35
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.96
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.18
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.96
+      }
+    ]
+  },
+  {
+    "fecha": "2022-12-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 2.66
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.43
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.6
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.39
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 1.02
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.72
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.22
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.06
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 1.02
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 2.51
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 1.23
+      }
+    ]
+  },
+  {
+    "fecha": "2023-01-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 2.46
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.47
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.4
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.49
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 2.29
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.63
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 3.98
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.08
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 1.48
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 3.11
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 1.92
+      }
+    ]
+  },
+  {
+    "fecha": "2023-02-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.6
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.29
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.93
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.95
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 2.04
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.26
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.99
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.07
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 1.19
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 8.5
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.71
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 1.97
+      }
+    ]
+  },
+  {
+    "fecha": "2023-03-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.91
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.31
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.73
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 1.01
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 1.47
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.41
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.37
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.66
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.34
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 1.62
+      }
+    ]
+  },
+  {
+    "fecha": "2023-04-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.07
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.43
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.56
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 1.15
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 1.05
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.04
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.28
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.03
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.44
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.04
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.9
+      }
+    ]
+  },
+  {
+    "fecha": "2023-05-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.85
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.15
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.6
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.92
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.44
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.85
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.19
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.05
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.02
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.02
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.68
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.37
+      }
+    ]
+  },
+  {
+    "fecha": "2023-06-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.53
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.48
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.36
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.48
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.16
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.39
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.08
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.09
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.01
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.56
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.35
+      }
+    ]
+  },
+  {
+    "fecha": "2023-07-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.46
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.62
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.54
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.07
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.33
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.01
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.68
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.07
+      }
+    ]
+  },
+  {
+    "fecha": "2023-08-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.13
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.14
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.26
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.61
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.9
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 1.02
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.52
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.46
+      }
+    ]
+  },
+  {
+    "fecha": "2023-10-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.2
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.51
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.2
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.35
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.04
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.45
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.06
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.55
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.12
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.27
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.51
+      }
+    ]
+  },
+  {
+    "fecha": "2023-11-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.45
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.62
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 1.05
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.14
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.58
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.72
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.01
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.2
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.83
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.27
+      }
+    ]
+  },
+  {
+    "fecha": "2023-12-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.42
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.68
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.2
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.86
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.25
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.18
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.72
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.5
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.51
+      }
+    ]
+  },
+  {
+    "fecha": "2024-01-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.48
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.11
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.84
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.69
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.1
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.99
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.12
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.21
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.72
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.97
+      }
+    ]
+  },
+  {
+    "fecha": "2024-02-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.54
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 1.13
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.7
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 1.07
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.38
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.59
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.86
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.06
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 8.74
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.13
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.3
+      }
+    ]
+  },
+  {
+    "fecha": "2024-03-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.75
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.78
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.12
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.83
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.25
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.13
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.14
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.01
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.54
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.94
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.24
+      }
+    ]
+  },
+  {
+    "fecha": "2024-04-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.16
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.43
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.06
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.93
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.43
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.36
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.1
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.1
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.28
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -0.07
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.28
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.48
+      }
+    ]
+  },
+  {
+    "fecha": "2024-05-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.51
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.2
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.74
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.13
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.36
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.05
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.16
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.03
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.65
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.42
+      }
+    ]
+  },
+  {
+    "fecha": "2024-06-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.08
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.09
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.58
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.07
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.49
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.19
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": 0.08
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.1
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -0.18
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.39
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.14
+      }
+    ]
+  },
+  {
+    "fecha": "2024-07-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.21
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.33
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.08
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.45
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": -0.06
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.24
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.08
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.15
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.02
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.1
+      }
+    ]
+  },
+  {
+    "fecha": "2024-08-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.68
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.22
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.06
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.3
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.02
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.17
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.13
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.4
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.22
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -0.16
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.31
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.0
+      }
+    ]
+  },
+  {
+    "fecha": "2024-10-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": -0.76
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.21
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.12
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": -0.04
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": -0.05
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.17
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": -0.01
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.16
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.17
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.02
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.14
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.16
+      }
+    ]
+  },
+  {
+    "fecha": "2024-11-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.13
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.53
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.23
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.29
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.17
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.36
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.04
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 1.68
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.35
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.27
+      }
+    ]
+  },
+  {
+    "fecha": "2024-12-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.53
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.44
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.12
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.58
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.11
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.14
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.39
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.1
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.23
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.99
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.18
+      }
+    ]
+  },
+  {
+    "fecha": "2025-01-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 1.62
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.64
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": -0.15
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.39
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.7
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.04
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.71
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.19
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": -0.18
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.0
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 1.9
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.54
+      }
+    ]
+  },
+  {
+    "fecha": "2025-02-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.6
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.97
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.54
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 1.16
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.65
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 0.54
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 1.57
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.02
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.93
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 5.57
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.82
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.81
+      }
+    ]
+  },
+  {
+    "fecha": "2025-03-01",
+    "datos": [
+      {
+        "categoria": "Alimentos Y Bebidas No Alcohólicas",
+        "ponderado": 15.05,
+        "mensual": 0.86
+      },
+      {
+        "categoria": "Bebidas Alcohólicas Y Tabaco",
+        "ponderado": 1.7,
+        "mensual": 0.57
+      },
+      {
+        "categoria": "Prendas De Vestir Y Calzado",
+        "ponderado": 3.98,
+        "mensual": 0.18
+      },
+      {
+        "categoria": "Alojamiento, Agua, Electricidad, Gas Y Otros Combustibles",
+        "ponderado": 33.12,
+        "mensual": 0.56
+      },
+      {
+        "categoria": "Muebles, Artículos Para El Hogar Y Para La Conservación Ordinaria Del Hogar",
+        "ponderado": 4.19,
+        "mensual": 0.42
+      },
+      {
+        "categoria": "Salud",
+        "ponderado": 1.71,
+        "mensual": 1.01
+      },
+      {
+        "categoria": "Transporte",
+        "ponderado": 12.93,
+        "mensual": 0.41
+      },
+      {
+        "categoria": "Información Y Comunicación",
+        "ponderado": 4.33,
+        "mensual": -0.2
+      },
+      {
+        "categoria": "Recreación Y Cultura",
+        "ponderado": 3.79,
+        "mensual": 0.19
+      },
+      {
+        "categoria": "Educación",
+        "ponderado": 4.41,
+        "mensual": 0.08
+      },
+      {
+        "categoria": "Restaurantes Y Hoteles",
+        "ponderado": 9.43,
+        "mensual": 0.57
+      },
+      {
+        "categoria": "Bienes Y Servicios Diversos",
+        "ponderado": 5.36,
+        "mensual": 0.34
+      }
+    ]
+  }
+]
