@@ -85,7 +85,7 @@ csv_file_path = '../data/completo.csv'
 json_output = csv_to_json(csv_file_path)
 
 # Save to JSON file
-with open('../claude/output.json', 'w', encoding='utf-8') as json_file:
+with open('../data/output.json', 'w', encoding='utf-8') as json_file:
     json.dump(json_output, json_file, ensure_ascii=False, indent=2)
 
 print("JSON file has been created successfully!")
